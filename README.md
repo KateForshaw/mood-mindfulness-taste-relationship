@@ -23,5 +23,5 @@ This was my dissertation for my undergraduate Psychology degree at Bangor Univer
 ## Files
 | File | Description |
 |------|-------------|
-| `PPP-3001 research report.docx` | Full research report: introduction, method, results and discussion |
-| `PPP – 3001 appendix.docx` | Appendices containing SPSS outputs and study materials |
+| `PPP-3001 research report.pdf` | Full research report: introduction, method, results and discussion |
+| `PPP – 3001 appendix.pdf` | Appendices containing SPSS outputs and study materials |
